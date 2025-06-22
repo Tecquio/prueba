@@ -1,0 +1,26 @@
+{
+  "tasks": [
+    { "id": 1, "title": "Analizar Sentimiento en ", "reward": 5 },
+    { "id": 2, "title": "Clasificar Imágenes de Productos", "reward": 8 },
+    { "id": 3, "title": "Transcripción de Audio Corto", "reward": 3 },
+    { "id": 4, "title": "Validar Datos de Encuestas", "reward": 4 }
+  ],
+  "profile": {
+    "id": 1,
+    "name": "Yair Sinecio",
+    "level": "Analista Senior",
+    "xp": 1500,
+    "xp_next_level": 2000,
+    "balance_mxn": 128.50,
+    "tasks_completed": 72,
+    "weekly_progress": [
+      { "name": "Lun", "Tareas": 4 },
+      { "name": "Mar", "Tareas": 6 },
+      { "name": "Mié", "Tareas": 5 },
+      { "name": "Jue", "Tareas": 8 },
+      { "name": "Vie", "Tareas": 7 },
+      { "name": "Sáb", "Tareas": 3 },
+      { "name": "Dom", "Tareas": 2 }
+    ]
+  }
+}
