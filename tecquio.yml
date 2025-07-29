@@ -1,0 +1,4 @@
+# tequio.yml
+requirements:
+  gpu:
+    vram_gb: 20
