@@ -1,4 +1,4 @@
 # tequio.yml
 requirements:
   gpu:
-    vram_gb: 20
+    vram_gb: 15
